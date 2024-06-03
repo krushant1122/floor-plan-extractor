@@ -6,7 +6,7 @@ This script converts 3D images into floor plans by segmenting and extracting the
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/3d-to-floor-plan.git
+git clone [https://github.com/yourusername/3d-to-floor-plan.git](https://github.com/krushant1122/floor-plan-extractor/tree/master)
 2. Install the required dependencies:
 pip install opencv-python numpy matplotlib
 
